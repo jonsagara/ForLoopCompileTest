@@ -108,3 +108,8 @@ Invalid expression term ')'
 ## JetBrains Rider
 
 The solution also fails to compile in JetBrains Rider 2024.3.5.
+
+## Previous reports
+
+[I reported this to VS Feedback](https://developercommunity.visualstudio.com/t/C-Compilation-Broken-in-Visual-Studio-2/10811093?port=1025&fsid=7c485b1e-c617-4201-8f56-671f9a37d1cb&ref=native&refTime=1739301926044&refUserId=6cc687d3-b6cc-4aee-9d0a-36df14375407) when I first encountered it.
+
